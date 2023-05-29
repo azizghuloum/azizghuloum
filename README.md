@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently writing a [tutorial on event sourcing](https://github.com/event-sourcing-tutorial). It is still in the beginning stages. Please read and tell me if you want me to expand on any specific topic. 
+
 <!--
 **azizghuloum/azizghuloum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
