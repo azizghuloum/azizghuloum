@@ -7,6 +7,9 @@ My current research focus is Rewrite-TS, a hygienic term-rewrite (macro) system 
 - [Rewrite-TS Demo](https://azizghuloum.github.io/rewrite-ts-visualized/)
 - [Rewrite-TS Repo](https://github.com/azizghuloum/rewrite-ts-visualized/)
 
+<img width="1121" alt="rewrite-ts-screenshot" src="https://github.com/user-attachments/assets/41d9bb7d-2a19-4f1a-a603-34be7616ea7a">
+
+
 <!--
 I'm currently writing a [tutorial on event sourcing](https://github.com/event-sourcing-tutorial). It is still in the beginning stages. Please read and tell me if you want me to expand on any specific topic. 
 -->
